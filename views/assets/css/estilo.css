@@ -8,9 +8,13 @@ nav ul li{
 
 .header{
   width: 100%;
-  height: 100px;
+  height: 120px;
   /*border: 1px solid black;*/
   background: #1485CC;
+  background-image:url(../imagenes/memes-cara.png);
+  background-repeat: no-repeat;
+  background-size: 100px auto;
+  background-position: left ;
 }
 
 .footer{
@@ -29,7 +33,7 @@ nav ul li{
   position: relative;
   margin-bottom: 30px;
   padding: 20px 40px ;
-  
+
 }
 .formulario input{
     width: 50%;
