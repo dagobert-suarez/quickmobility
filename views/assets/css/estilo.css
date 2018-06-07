@@ -2,9 +2,6 @@
   margin: 0;
   padding: 0;
 }
-nav ul li{
-  font-family: verdana;
-}
 
 .header{
   width: 100%;
@@ -50,4 +47,48 @@ nav ul li{
     margin: 0 0 20px 0;
     font-size: 20px;
     border-radius: 5px;
+}
+
+.langin_page{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+}
+
+.cuadro_1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  background:url(../imagenes/gif.gif);
+  background-size: cover;
+}
+.cuadro_2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  background:url(../imagenes/john\ travolta.gif);
+  background-size: cover;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 1px;
+  border: 1px solid black;
+  width: 70%;
+  float: right;
+  margin-top: 30px;
+}
+
+.m{
+    background: #229acd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    font-family: verdana;
+    border: 1px solid #00000057;
+    width: 300px;
+    float: right;
 }
