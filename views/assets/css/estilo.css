@@ -19,3 +19,28 @@ nav ul li{
   border: 1px solid black;
   background:  #222222ce;
 }
+
+.formulario{
+  width: 35%;
+  height: 400px;
+  border: 1px solid black;
+  margin: 48px auto;
+  position: relative;
+  margin-bottom: 30px;
+}
+.formulario input{
+    width: 50%;
+    height: 30px;
+    font-size:18px;
+    letter-spacing: 2px;
+    font-family: arial;
+}
+
+.formulario input[type="text"],
+.formulario input[type="password"],
+.formulario input[type="email"],
+.formulario input[type="number"]{
+    margin: 0 0 20px 0;
+    font-size: 20px;
+    border-radius: 5px;
+}
