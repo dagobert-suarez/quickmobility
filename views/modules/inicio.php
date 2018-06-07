@@ -1,4 +1,8 @@
-
+<section>
+  <div class="quines somos">
+    <h1>QuickMobility</h1>
+  </div>
+</section>
 
 
 <!--<h1>texto hola sizas</h1>
