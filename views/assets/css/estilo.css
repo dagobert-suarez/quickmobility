@@ -51,3 +51,25 @@ nav ul li{
     font-size: 20px;
     border-radius: 5px;
 }
+
+.langin_page{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+}
+
+.cuadro_1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  background:url(../imagenes/gif.gif);
+  background-size: cover;
+}
+.cuadro_2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  background:url(../imagenes/john\ travolta.gif);
+  background-size: cover;
+}
