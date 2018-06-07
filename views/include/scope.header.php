@@ -10,7 +10,7 @@
       <section class="container">
         <section class="m">Quienes somos</section>
         <section class="m">Contactenos</section>
-        <section class="m">Registrarse</section>
+        <section class="m"><a href="#reg">Registrarse</a></section>
       </section>
     </header>
 

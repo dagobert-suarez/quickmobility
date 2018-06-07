@@ -1,4 +1,4 @@
-<div class="formulario">
+<div class="formulario" id="reg">
 
 <form class="" action="new-user" method="post">
   <input type="text" name="data[]" value="" placeholder="Nombre">
