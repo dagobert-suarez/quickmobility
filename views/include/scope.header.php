@@ -7,6 +7,5 @@
   </head>
   <body>
     <header class="header">
-      <h2>este es el header</h2>
+
     </header>
-  
