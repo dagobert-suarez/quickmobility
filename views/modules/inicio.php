@@ -1,7 +1,7 @@
 
 
 
-<h1>texto hola sizas</h1>
+<!--<h1>texto hola sizas</h1>
 <nav>
   <ul>
     <li>menu 1</li>
@@ -9,4 +9,4 @@
     <li>menu 3</li>
   </ul>
 </nav>
-<a href="landing">link a mas</a>
+<a href="landing">link a mas</a>-->
