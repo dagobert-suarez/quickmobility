@@ -1,4 +1,4 @@
 RewriteEngine on
 
 RewriteRule ^inicio$ index.php?controller=views
-#RewriteRule$ ^landing$ index.php?controller=inicio
+#RewriteRule$ ^landing$ index.php?controller=user&a=mas
