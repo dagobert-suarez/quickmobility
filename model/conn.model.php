@@ -1,7 +1,7 @@
 <?php
     class DataBase{
         private static $dbhost = "localhost";
-        private static $dbname = "mobile";
+        private static $dbname = "quick_mobility";
         private static $dbuser = "root";
         private static $dbpass = "";
         private static $dbstatus = null;
