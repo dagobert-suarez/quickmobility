@@ -6,3 +6,7 @@
     <link rel="stylesheet" href="views/assets/css/estilo.css">
   </head>
   <body>
+    <header class="header">
+      <h2>este es el header</h2>
+    </header>
+  
