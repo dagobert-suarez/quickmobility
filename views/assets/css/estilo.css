@@ -75,10 +75,11 @@ grid-template-columns: repeat(2,1fr);
   display: grid;
   grid-template-columns: repeat(3,1fr);
   grid-gap: 1px;
-  border: 1px solid black;
+/*  border: 1px solid black;*/
   width: 70%;
   float: right;
   margin-top: 30px;
+
 }
 
 .m{
@@ -91,4 +92,5 @@ grid-template-columns: repeat(2,1fr);
     border: 1px solid #00000057;
     width: 300px;
     float: right;
+      border-radius: 10px;
 }
