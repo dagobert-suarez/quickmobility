@@ -8,6 +8,7 @@
   <input type="text" name="telefono" value="" placeholder="Telefono">
   <input type="text" name="direccion" value="" placeholder="Direccion">
   <input type="password" name="contrasena" value="" placeholder="Contraseña">
+  <input type="submit" name="enviar" value="Enviar">
 </form>
 
 </div>
