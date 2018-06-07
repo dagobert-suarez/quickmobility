@@ -1,13 +1,13 @@
 <div class="formulario">
 
-<form class="" action="index.html" method="post">
-  <input type="text" name="nombre" value="" placeholder="Nombre">
-  <input type="text" name="apellidos" value="" placeholder="Apellidos">
-  <input type="number" name="" value="" placeholder="Documento">
-  <input type="text" name="correo" value="" placeholder="Correo">
-  <input type="text" name="telefono" value="" placeholder="Telefono">
-  <input type="text" name="direccion" value="" placeholder="Direccion">
-  <input type="password" name="contrasena" value="" placeholder="Contraseña">
+<form class="" action="new-user" method="post">
+  <input type="text" name="data[]" value="" placeholder="Nombre">
+  <input type="text" name="data[]" value="" placeholder="Apellidos">
+  <input type="number" name="data[]" value="" placeholder="Documento">
+  <input type="text" name="data[]" value="" placeholder="Correo">
+  <input type="text" name="data[]" value="" placeholder="Telefono">
+  <input type="text" name="data[]" value="" placeholder="Direccion">
+  <input type="password" name="data[]" value="" placeholder="Contraseña">
   <input type="submit" name="enviar" value="Enviar">
 </form>
 
