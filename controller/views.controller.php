@@ -14,6 +14,7 @@ class viewsController{
   }
   function newUser(){
     $data=$_POST['data'];
+    
   }
 }
 ?>
