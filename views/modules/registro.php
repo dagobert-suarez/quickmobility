@@ -7,7 +7,7 @@
   <input type="text" name="correo" value="" placeholder="Correo">
   <input type="text" name="telefono" value="" placeholder="Telefono">
   <input type="text" name="direccion" value="" placeholder="Direccion">
-  <input type="text" name="contrasena" value="" placeholder="Contraseña">
+  <input type="password" name="contrasena" value="" placeholder="Contraseña">
 </form>
 
 </div>
