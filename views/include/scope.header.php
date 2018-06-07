@@ -8,9 +8,9 @@
   <body>
     <header class="header">
       <section class="container">
-        <section class="m">1</section>
-        <section class="m">2</section>
-        <section class="m">3</section>
+        <section class="m">Quienes somos</section>
+        <section class="m">Contactenos</section>
+        <section class="m">Registrarse</section>
       </section>
     </header>
 
