@@ -11,11 +11,11 @@
         <form class="form-login" action="#" onsubmit="return validar()">
 
           <div class="wrap-login">
-            <input type="text" name="data[]" class="input-login" placeholder="correo electrónico">
+            <input type="text" name="data[]" class="input-login" placeholder="correo electrónico" required>
           </div>
 
           <div class="wrap-login">
-            <input type="password" name="" class="input-login" placeholder="contraseña">
+            <input type="password" name="" class="input-login" placeholder="contraseña" required>
           </div>
 
           <button type="button" class="boton-login" name="button">iniciar</button>

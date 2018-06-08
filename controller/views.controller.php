@@ -13,7 +13,7 @@ class viewsController{
     require_once "views/include/scope.footer.php";
   }
   function login(){
-    require_once "views/include/scope.header.php";
+    require_once "views/include/scope.header-second.php";
     require_once "views/modules/login.php";
     require_once "views/include/scope.footer.php";
   }
@@ -23,7 +23,7 @@ class viewsController{
     require_once "views/include/scope.footer.php";
   }
   function createNewAccount(){
-    require_once "views/include/scope.header.php";
+    require_once "views/include/scope.header-second.php";
     require_once "views/modules/registro.php";
     require_once "views/include/scope.footer.php";
   }
