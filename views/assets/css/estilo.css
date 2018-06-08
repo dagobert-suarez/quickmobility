@@ -29,8 +29,9 @@
   margin: 48px auto;
   position: relative;
   margin-bottom: 30px;
-  padding: 20px 40px ;
-
+  padding: 20px 50px ;
+  padding-left: 100px;
+  padding-top: 20px;
 }
 .formulario input{
     width: 50%;
