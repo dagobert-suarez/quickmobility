@@ -1,6 +1,7 @@
 <section class="langin_page">
+  <!-- <img src="views/assets/imagenes/bus.png" alt=""> -->
   <div class=" cuadro_1 quines_somos">
-    <h1></h1>
+    <img src="views/assets/imagenes/logo.jpg" alt="">
   </div>
   <div class="cuadro_2 Noticias">
     <h1>Noticias Del Dia</h1>

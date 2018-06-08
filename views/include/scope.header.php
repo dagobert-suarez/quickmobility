@@ -8,10 +8,10 @@
   <body>
     <header class="header">
       <section class="container">
-        <section class="m"><p><a href="inicio">inicio</a></p></section>
-        <section class="m"><p>¿Quienes somos?</p></section>
-        <section class="m"><p>Contactenos</p></section>
-        <section class="m"><p><a href="login">login</a></p></section>
+        <section class="m"><a href="inicio">inicio</a></section>
+        <section class="m"><a href="">¿Quienes somos?</a></section>
+        <section class="m"><a href="">Contactenos</a></section>
+        <section class="m"><a href="login">login</a></section>
       </section>
     </header>
 
