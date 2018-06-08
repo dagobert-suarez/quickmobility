@@ -5,10 +5,10 @@
 
 .header{
   width: 100%;
-  height: 120px;
+  height: 90px;
   /*border: 1px solid black;*/
-  background: #1485CC;
-  background-image:url(../imagenes/memes-cara.png);
+  background: #ff9c02;
+  /* background-image:url(../imagenes/memes-cara.png); */
   background-repeat: no-repeat;
   background-size: 100px auto;
   background-position: left ;
@@ -55,46 +55,55 @@ grid-template-columns: repeat(2,1fr);
 }
 
 .cuadro_1{
+  background: green;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 600px;
-  background:url(../imagenes/gif.gif);
-  background-size: cover;
+  background:url(../imagenes/logo.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  background-position: 50% 50%;
 }
 .cuadro_2{
+  background: red;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 600px;
-  background:url(../imagenes/john\ travolta.gif);
+  /* background:url(../imagenes/john\ travolta.gif); */
   background-size: cover;
 }
 
 .container{
   display: grid;
-  grid-template-columns: repeat(3,1fr);
+  grid-template-columns: repeat(4,1fr);
   grid-gap: 1px;
 /*  border: 1px solid black;*/
-  width: 70%;
+  width: 60%;
   float: right;
-  margin-top: 30px;
+  margin-top: 25px;
 
 }
 
 .m{
-  background: #229acd;
+  /* background: #229acd; */
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50px;
+  height: 40px;
   font-family: verdana;
-  border: 1px solid #00000057;
-  width: 300px;
+  border: 0px solid #00000057;
+  width: 200px;
   float: right;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   color: white;
   text-decoration: none;
+  cursor: pointer;
+}
+.m:hover{
+  background: white;
+  color: black;
 }
 a{
     text-decoration: none;
