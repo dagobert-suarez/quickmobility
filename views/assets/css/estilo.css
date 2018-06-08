@@ -93,4 +93,10 @@ grid-template-columns: repeat(2,1fr);
   width: 300px;
   float: right;
   border-radius: 10px;
+  color: white;
+  text-decoration: none;
+}
+a{
+    text-decoration: none;
+      color: white;
 }
