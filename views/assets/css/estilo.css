@@ -111,3 +111,79 @@
   background: white;
   color: black;
 }
+
+/* diseño en el login */
+.cont_login{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  /* background-color: red; */
+  /* background:url(../imagenes/taxi.jpg); */
+  /* background-repeat: no-repeat; */
+  /* background-size: 100% 600px; */
+  /* background-position: 50% 50%; */
+}
+
+.log1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  /* background:url(../imagenes/logo.jpg); */
+  /* background-repeat: no-repeat;
+  background-size: 300px 300px;
+  background-position: 50% 50%; */
+  background: rgba(169,171,173, .5);
+}
+
+.formulario_login{
+  background: #e4e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  /* background:url(../imagenes/john\ travolta.gif); */
+  background-size: cover;
+}
+.form2{
+  width: 80%;
+  /* height: 300px; */
+}
+.form2 h2{
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+.form2 p{
+  margin-top: 15px;
+  font-family: verdana;
+  font-size: 15px;
+  text-align: center;
+}
+.form2 .form-login .wrap-login{
+  width: 100%;
+  padding: 15px 0 0 0;
+  position: relative;
+}
+.form2 .form-login .wrap-login .input-login{
+  position: relative;
+  width: 80%;
+  padding: 10px 0;
+  position: relative;
+}
+.form2 .form-login{
+  text-align: center;
+}
+.form2 .form-login .boton-login{
+  text-align: center;
+  background: white;
+  /* font-family: ; */
+  font-size: 20px;
+  padding: 10px;
+  width: 50%;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+}
+.form2 .form-login .boton-login:hover{
+  background: #df9d0b;
+}

@@ -1,5 +1,4 @@
 <section class="langin_page">
-  <!-- <img src="views/assets/imagenes/bus.png" alt=""> -->
   <div class=" cuadro_1 quines_somos">
     <img src="views/assets/imagenes/logo.jpg" alt="">
   </div>

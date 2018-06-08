@@ -4,3 +4,4 @@ RewriteRule ^inicio$ index.php?controller=views
 RewriteRule ^landing$ index.php?controller=views&a=mas
 RewriteRule ^new_user$ index.php?controller=views&a=newUser
 RewriteRule ^login$ index.php?controller=views&a=login
+RewriteRule ^crear-cuenta$ index.php?controller=views&a=createNewAccount

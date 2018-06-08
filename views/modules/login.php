@@ -1,15 +1,26 @@
+<section class="cont_login">
 
-  <div class="formulario">
+  <div class="log1">
+    <h2>otra parte</h2>
+  </div>
+
+  <div class="formulario_login">
+    <div class="form2">
         <h2>Iniciar Sesión</h2>
-        <form action="#" onsubmit="return validar()">
-            <input type="text" id="text1" placeholder="Usuario" onkeypress="return soloLetras(event)">
-            <div id="alertu">
-                <span id="mensau"></span>
-            </div>
-            <input type="password" id="password1" placeholder="Contraseña">
-            <div id="alertp">
-                <span id="mensap"></span>
-            </div>
-            <input type="submit" value="Iniciar Sesión" >
+        <p>¿tienes una cuenta? crea una <a href="crear-cuenta">aquí</a></p>
+        <form class="form-login" action="#" onsubmit="return validar()">
+
+          <div class="wrap-login">
+            <input type="text" name="data[]" class="input-login" placeholder="correo electrónico">
+          </div>
+
+          <div class="wrap-login">
+            <input type="password" name="" class="input-login" placeholder="contraseña">
+          </div>
+
+          <button type="button" class="boton-login" name="button">iniciar</button>
         </form>
+      </div>
     </div>
+
+  </section>
