@@ -83,14 +83,14 @@ grid-template-columns: repeat(2,1fr);
 }
 
 .m{
-    background: #229acd;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 50px;
-    font-family: verdana;
-    border: 1px solid #00000057;
-    width: 300px;
-    float: right;
-      border-radius: 10px;
+  background: #229acd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  font-family: verdana;
+  border: 1px solid #00000057;
+  width: 300px;
+  float: right;
+  border-radius: 10px;
 }
