@@ -9,7 +9,7 @@
     <header class="header">
       <section class="container">
         <section class="m"><a href="inicio">inicio</a></section>
-        <section class="m"><a href="">¿Quienes somos?</a></section>
+        <section class="m"><a href="#nosotros">¿Quienes somos?</a></section>
         <section class="m"><a href="">Contactenos</a></section>
         <section class="m"><a href="login">login</a></section>
       </section>

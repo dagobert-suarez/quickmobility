@@ -9,7 +9,7 @@ class viewsController{
   function main(){
     require_once "views/include/scope.header.php";
     require_once "views/modules/inicio.php";
-    // require_once "views/modules/registro.php";
+    require_once "views/modules/nosotros.php";
     require_once "views/include/scope.footer.php";
   }
   function login(){
@@ -32,6 +32,10 @@ class viewsController{
     $result = $this->userModel->createUser($data);
     echo '<script language="javascript">alert("<div class="exit">Creada con exito</div>");</script>';
     echo "<script>window.location.href='landing'</script>";
+  }
+  function validar(){
+    $data=$_POST['data'];
+    $result = $this->userModel->validarCuenta($data);
   }
 }
 ?>
